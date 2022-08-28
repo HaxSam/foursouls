@@ -1,0 +1,5 @@
+[workspace]
+members = ["card-scraper", "game", "gameserver"]
+
+[profile.release]
+strip = true
